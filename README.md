@@ -1,4 +1,5 @@
-# Apurva Jalgaonkar Banking System
+# The Sparks Foundation Task 1 
+
 Sparks Foundation Internship Project : Basic Banking System  
 A Web Website used to transfer money between multiple users.  
 
